@@ -1,0 +1,19 @@
+{
+  "name": "lightkeeper-frontend",
+  "homepage": "https://github.com/MoshiBin/lightkeeper-frontend",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
